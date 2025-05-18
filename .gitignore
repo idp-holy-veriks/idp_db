@@ -3,5 +3,6 @@
 __pycache__
 *.pyc
 .venv
+.env
 
-raw_data
+*.db
